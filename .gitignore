@@ -1,2 +1,5 @@
 .idea
 *.iml
+
+maven/.vscode/settings.json
+maven/src/test/resources/io/cucumber/skeleton/snapshot_feature.txt
